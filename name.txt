@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 priya 
 1
 2
 3
+=======
+git working in dev branch...........
+
+git name in branch dev new
+>>>>>>> dev
